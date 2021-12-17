@@ -3,10 +3,15 @@
 main 페이지 와 signin 페이지 화면구성
 
 # 완성본
+```html
+<a href="https://elastic-spence-57bbf2.netlify.app/" traget="_blank">DEMO</a>
+```
 https://elastic-spence-57bbf2.netlify.app/
 
-#사용언어
+## 사용언어
 HTML, CSS, Javascript 
 
+## 사용한 라이브러리
+Lodash, GSAP, ScrollToPlugin, SWIPER, ScrollMagic
 
 
