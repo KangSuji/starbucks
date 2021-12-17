@@ -4,10 +4,11 @@ main 페이지 와 signin 페이지 화면구성
 
 # 완성본
 
-<a href="https://elastic-spence-57bbf2.netlify.app/" traget="_blank">DEMO</a>
-<a href="https://elastic-spence-57bbf2.netlify.app/signin" traget="_blank">DEMO-siginIn</a>
-
+<a href="https://elastic-spence-57bbf2.netlify.app/" traget="_blank">STARBUCKS</a>  
+<a href="https://elastic-spence-57bbf2.netlify.app/signin" traget="_blank">STARBUCKS-SiginIn</a>
+```
 https://elastic-spence-57bbf2.netlify.app/
+```
 
 ## 사용언어
 HTML, CSS, Javascript 
